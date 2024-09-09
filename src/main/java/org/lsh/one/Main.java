@@ -1,4 +1,4 @@
-package org.lsh;
+package org.lsh.one;
 
 public class Main {
 
